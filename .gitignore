@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+
+# Vim/Neovim swap and backup files
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# OS junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
