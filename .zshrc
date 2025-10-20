@@ -72,7 +72,7 @@ alias gs="git status"
 alias gd="git diff"
 
 # Common directories
-alias c="cd ~/Documents/code"
+alias code="cd ~/Documents/code"
 
 # Editor shortcuts
 alias configzsh="nvim ~/.zshrc"
